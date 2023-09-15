@@ -26,9 +26,12 @@
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - :mag_right: Looking for a job for a position Junior Backend Developer.
 
-- :seedling: Exploring Technical Content Writing.
+- :man_student: Student at National Aerospace University «Kharkiv Aviation Institute»
+
+- :seedling: Exploring Web Development.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mykyta-holovan-389512247/)
+
 
 
 
