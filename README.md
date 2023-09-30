@@ -23,7 +23,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine 🇺🇦.
 - :mag_right: Looking for a job for a position Junior Backend Developer.
 
 - :man_student: Student at National Aerospace University «Kharkiv Aviation Institute»
